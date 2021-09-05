@@ -9,14 +9,17 @@ Using a bulleted list, address the following election outcomes. Use images or ex
   - A total of 369,711 votes were cast in this congressional election. 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   - Jefferson County had 10.5% of the votes, Denver County had 82.8% of the votes, and Arapahoe had 6.7% of the votes. 
+
 ![County Vote Breakdown](https://github.com/li-emily/Election_Analysis/blob/main/Resources/county_votes.png)
 - Which county had the largest number of votes?
   - The county with the largest number of votes was Denver, with 306,055 votes.
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - Stockham had 23% of the votes, DeGette had 73.8% of the votes, and Doane had 3.1% of the votes.
+
 ![Candidate Vote Breakdown](https://github.com/li-emily/Election_Analysis/blob/main/Resources/candidate_results.png)
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - Diana DeGette was the winner of the election. Her vote count and percentage are as follows.
+
 ![Winning Candidate Vote Breakdown](https://github.com/li-emily/Election_Analysis/blob/main/Resources/winning_candidate.png)
   - The winner was found by putting the following code into a for loop that went through each of the candidates, using it to determine the winning vote count, percentage, and candidate.
 ```        
